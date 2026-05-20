@@ -11,3 +11,22 @@ fyersApi.log
 fyersRequests.log
 v3_position_state.json
 *.log
+
+# Security / auth
+fyers_login.py
+
+# EMA strategy — moved to Nifty_EMA_Backtest repo
+ema_backtest.py
+ema_backtest_15min.py
+ema_backtest_trades_15min.csv
+ema_backtest_trades_15min.xlsx
+ema_backtest_trades_FIXED.csv
+ema_backtest_trades_FIXED.xlsx
+EMA_Strategy_Comparison.xlsx
+
+# Analysis / review scripts (not part of live system)
+slope_analysis.py
+strategy.py
+daily_review.py
+news_intel.py
+fetch_historical_data.py
