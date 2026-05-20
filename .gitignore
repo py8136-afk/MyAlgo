@@ -1,0 +1,13 @@
+credentials.json
+token.txt
+token_cache.json
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+v3_logs/
+backtest_cache/
+fyersApi.log
+fyersRequests.log
+v3_position_state.json
+*.log
